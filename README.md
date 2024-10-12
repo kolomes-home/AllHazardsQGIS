@@ -1,2 +1,2 @@
 # AllHazardsQGIS
-Aiims All Hazards Symbology
+Aiims All Hazards Symbology for QGIS
